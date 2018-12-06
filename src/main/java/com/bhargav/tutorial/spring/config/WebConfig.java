@@ -10,4 +10,6 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 @ComponentScan(basePackages = { "com.bhargav.tutorial.spring.controller" })
 public class WebConfig extends WebMvcConfigurerAdapter {
 
+	
+	
 }
